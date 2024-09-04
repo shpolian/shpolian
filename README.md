@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shpolian
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me: leoshpol@gmail.com/my Git Account
 - ⚡ Fun fact: I'm an enthusiastic Mate drinker
